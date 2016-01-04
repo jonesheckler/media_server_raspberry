@@ -94,9 +94,7 @@ mkdir -p /mnt/ext
 mount $localDev /mnt/ext
 
 echo "UUID=$uuid /mnt/ext $sistemaArquivo defaults 0 0" >>  /etc/fstab 
-mount /dev/sda1 /mnt/ext
 
-echo "UUID=$uuid /mnt/ext ntfs defaults 0 0" >>  /etc/fstab 
 
 
 #Criar links para o minidlna achar a pasta dos filmes

@@ -16,7 +16,7 @@ IP_do_PI/disco_usb
 
 Para fazer o download execute seguinte comando
 
-	$ git clone https://github.com/kanelaoka/media_server_raspberry_pi.git
+	$ git clone https://github.com/kanelaoka/media_server_raspberry.git
 
 caso não tenha o git instalado execute o seguinte comando
 

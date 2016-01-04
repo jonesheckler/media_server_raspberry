@@ -18,9 +18,6 @@ Para fazer o download execute seguinte comando
 
 	$ git clone https://github.com/kanelaoka/media_server_raspberry.git
 
-caso não tenha o git instalado execute o seguinte comando
-
-	$ sudo apt-get install git-core
 
 Após fazer download do arquivo, precisa dar permissão de escrita para o mesmo
 para isso execute o seguinte comando
@@ -68,4 +65,4 @@ e colei as variáveis da seguinte maneira, altere conforme a sua resposta
 
 Depois de alterar as variáveis, é só rodar o script e buscar uma cerveja.
 
-	$ ./media_center.sh
+	$ sudo ./media_center.sh

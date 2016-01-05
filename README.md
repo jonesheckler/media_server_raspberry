@@ -14,7 +14,7 @@ IP_do_PI/disco_usb
 
 
 Pode assistir seus filmes e seriados diretamente na sua SmartTV ou enviar para o ChromeCast
-usando o Aplicativo BubbleUPnP
+usando o Aplicativo BubbleUPnP seu HD Externo estará dentro da pasta "Browse Folders"
 
 ![ScreenShot](http://oi67.tinypic.com/2v3rcw6.jpg)
 

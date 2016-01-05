@@ -66,7 +66,8 @@ no meu caso a resposta foi a seguinte
 
 	$ /dev/sda1: LABEL="SANSUNG" UUID="722083C320838D33" TYPE="ntfs
 
-e colei as variáveis da seguinte maneira, altere conforme a sua resposta 
+e colei as variáveis da seguinte maneira, altere conforme a sua resposta
+
 	$uuid="722083C320838D33"
 	
 	$sistemaArquivo="ntfs"

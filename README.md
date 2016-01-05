@@ -15,7 +15,12 @@ IP_do_PI/disco_usb
 
 Pode assistir seus filmes e seriados diretamente na sua SmartTV ou enviar para o ChromeCast
 usando o Aplicativo BubbleUPnP
-![ScreenShot](http://oi65.tinypic.com/besltx.jpg)
+
+![ScreenShot](http://oi67.tinypic.com/2v3rcw6.jpg)
+
+Na SmartTV já reconhece as legendas
+
+![ScreenShot](http://oi64.tinypic.com/1zm1rvo.jpg)
 
 # Configuração
 

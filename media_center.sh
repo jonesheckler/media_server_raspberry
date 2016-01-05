@@ -99,7 +99,7 @@ echo "UUID=$uuid /mnt/ext $sistemaArquivo defaults 0 0" >>  /etc/fstab
 
 #Criar links para o minidlna achar a pasta dos filmes
 
-ln -s /mnt/ext/Seriados-HD $dirDownload
+ln -s /mnt/ext $dirDownload
 
 
 #####--------Acessar o HD Externo pela rede com Samba ----------############
@@ -113,7 +113,3 @@ service samba restart
 
 apt-get -y update
 apt-get -y upgrade
-
-reboot
-
-

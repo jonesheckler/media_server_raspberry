@@ -12,6 +12,11 @@ Pode acessar os arquivos do HD Externo diretamente pela rede:
 
 IP_do_PI/disco_usb
 
+
+Pode assistir seus filmes e seriados diretamente na sua SmartTV ou enviar para o ChromeCast
+usando o Aplicativo BubbleUPnP
+![ScreenShot](http://oi65.tinypic.com/besltx.jpg)
+
 # Configuração
 
 Para fazer o download execute seguinte comando
